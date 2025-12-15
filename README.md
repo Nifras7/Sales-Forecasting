@@ -68,6 +68,6 @@ This project is licensed under the MIT License.
 
 # 👤 Author
 
-Mohammad Nifraz
+Mohamed Nifras
 
 Aspiring Data Scientist | Machine Learning Enthusiast
